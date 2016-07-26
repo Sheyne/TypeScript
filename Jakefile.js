@@ -115,6 +115,7 @@ var harnessSources = harnessCoreSources.concat([
     "reuseProgramStructure.ts",
     "textStorage.ts",
     "cachingInServerLSHost.ts",
+    "checkerPublicRelationships.ts",
     "moduleResolution.ts",
     "tsconfigParsing.ts",
     "commandLineParsing.ts",
